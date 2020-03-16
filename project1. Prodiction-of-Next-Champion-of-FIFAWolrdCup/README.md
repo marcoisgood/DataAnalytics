@@ -1,4 +1,4 @@
-# ============== Soccer: Live it and Love it ===================
+# Soccer: Live it and Love it 
 ## Analyzed by Marco Lin
 
 ![](http://www.blogproductreview.com/wp-content/uploads/2018/10/download-6.jpeg)
